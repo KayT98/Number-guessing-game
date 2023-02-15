@@ -1,1 +1,1 @@
-# Number-guessing-game
+simple python number guessing game
